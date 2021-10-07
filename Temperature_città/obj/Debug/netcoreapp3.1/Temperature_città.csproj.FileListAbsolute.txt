@@ -1,0 +1,13 @@
+E:\4F\Temperature_città\bin\Debug\netcoreapp3.1\Temperature_città.exe
+E:\4F\Temperature_città\bin\Debug\netcoreapp3.1\Temperature_città.deps.json
+E:\4F\Temperature_città\bin\Debug\netcoreapp3.1\Temperature_città.runtimeconfig.json
+E:\4F\Temperature_città\bin\Debug\netcoreapp3.1\Temperature_città.runtimeconfig.dev.json
+E:\4F\Temperature_città\bin\Debug\netcoreapp3.1\Temperature_città.dll
+E:\4F\Temperature_città\bin\Debug\netcoreapp3.1\Temperature_città.pdb
+E:\4F\Temperature_città\obj\Debug\netcoreapp3.1\Temperature_città.csproj.AssemblyReference.cache
+E:\4F\Temperature_città\obj\Debug\netcoreapp3.1\Temperature_città.AssemblyInfoInputs.cache
+E:\4F\Temperature_città\obj\Debug\netcoreapp3.1\Temperature_città.AssemblyInfo.cs
+E:\4F\Temperature_città\obj\Debug\netcoreapp3.1\Temperature_città.csproj.CoreCompileInputs.cache
+E:\4F\Temperature_città\obj\Debug\netcoreapp3.1\Temperature_città.dll
+E:\4F\Temperature_città\obj\Debug\netcoreapp3.1\Temperature_città.pdb
+E:\4F\Temperature_città\obj\Debug\netcoreapp3.1\Temperature_città.genruntimeconfig.cache

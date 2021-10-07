@@ -1,0 +1,61 @@
+﻿using System;
+using System.Collections.Generic;
+
+namespace Temperature_città
+{
+    class Temperature
+    {
+        //attributi
+        int t,min,max;
+
+        //costruttore
+        public Temperature(int t)
+        {
+            this.t = t;
+            min = 9999;
+            max = -9999;
+        }
+        //metodi
+        public void setTemp()
+        {
+            t = int.Parse(Console.ReadLine());
+            minimo();
+            massimo();
+        }
+        public void minimo()
+        {
+            if (min > t)
+                min = t;
+        
+        }
+        public void massimo()
+        {
+            if (max < t)
+
+                max = t;
+
+        }
+        public int mostraMinimo()
+        {
+            return min;
+        }
+        public int mostraMassimo()
+        {
+            return max;
+        }
+        static void Main(string[] args)
+        {
+            int quantità = 0;
+            Console.WriteLine("Quante temperature vuoi inserire?");
+            Temperature t = new Temperature(quantità);
+            quantità = int.Parse(Console.ReadLine());
+            for (int i = 0; i < quantità; i++)
+            {
+                Console.Write("Inserisci la temperatura");
+                t.setTemp();
+            }
+            Console.WriteLine("La temperatura minima è :" + t.mostraMinimo());
+            Console.WriteLine("La temperatura massima è :" + t.mostraMassimo());
+        }
+    }
+}
