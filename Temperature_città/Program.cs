@@ -20,7 +20,7 @@ namespace Temperature_città
             max = -9999;
         }
         //metodi
-        //
+        //converte il valore inserito dall'utente e controlla se sia minore o maggiore rispetto a quelli inseriti prima
         public void setTemp()
         {
             t = int.Parse(Console.ReadLine());
